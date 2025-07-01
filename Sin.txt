@@ -1,0 +1,15 @@
+S001|Pembunuhan Tidak Terencana|Penjara 15 Tahun
+S002|Pembunuhan Terencana|Penjara 20 Tahun
+S003|Pencurian Biasa|Penjara 5 Tahun
+S004|Perampokan|Penjara 12 Tahun
+S005|Korupsi Bansos|Denda 1 Miliar Rupiah
+S006|Penyalahgunaan Narkoba|Penjara 4 hingga 12 Tahun
+S007|Pemerkosaan|Penjara 13 Tahun dan Masuk Neraka
+S008|Pemerkosaan Anak di Bawah Umur|Penjara 17 Tahun
+S009|Pencemaran Nama Baik|Penjara 2 Tahun atau Denda
+S010|Pengedar Narkoba|Denda Rp 10 Miliar
+S011|Pencurian Sandal Masjid|Tidak Diterima Solatnya
+S012|Pake BREAK Pada Loop While|Tidak Diakui Mahasiswa Bu Rosa
+S013|Peretasan Web CSPC|Dapet Nilai E dari Bu Rosa
+S014|Mengerjakan CSPC Ketika Matkul Jarkom|Kena Sindir Dosen
+####|####|####
