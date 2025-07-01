@@ -1,0 +1,15 @@
+K001|Repa Pitriani|S005|Korupsi Bansos|Denda 1 Miliar Rupiah|H002|I Gusti Agung Sumanatha, SH., MH|G009|PTUN Bandung
+K002|Naufal Rizki|S012|Pake BREAK Pada Loop While|Tidak Diakui Mahasiswa Bu Rosa|H008|Dr.Salman Luthan,SH.,MH|G007|Pengadilan Narkotika
+K003|Harri A.K.A "THE IDAY"|S013|Peretasan Web CSPC|Dapet Nilai E dari Bu Rosa|H021|Rosa Ariani Sukamto, M.T.|G010|Meja Sidang Kelas S-306
+K004|Raffa|S007|Pemerkosaan|Penjara 13 Tahun dan Masuk Neraka|H019|Dr.Drs.M.Yunus Wahab,SH.,MH|G003|Pengadilan Agama Surabaya
+K005|Anas Minfathul|S001|Pembunuhan Tidak Terencana|Penjara 15 Tahun|H001|Dr. Burhan Dahlan, SH., MH|G001|Pengadilan Negeri Jakarta Pusat
+K006|Aji|S005|Korupsi Bansos|Denda 1 Miliar Rupiah|H001|Dr. Burhan Dahlan, SH., MH|G001|Pengadilan Negeri Jakarta Pusat
+K007|Yassar Muwaffaq|S014|Mengerjakan CSPC Ketika Matkul Jarkom|Kena Sindir Dosen|H010|Dr.Nurul Elmiyah,SH.,MH|G011|Gedung C Kelas C-308
+K008|Adwar|S007|Pemerkosaan|Penjara 13 Tahun dan Masuk Neraka|H018|Dr. H . Edi Riadi,SH.,MH|G004|Pengadilan Tinggi Makassar
+K009|Faiz|S011|Pencurian Sandal Masjid|Tidak Diterima Solatnya|H015|Maria Anna Samiyati,SH.,MH|G004|Pengadilan Tinggi Makassar
+K010|Alex Turner|S009|Pencemaran Nama Baik|Penjara 2 Tahun atau Denda|H005|Syamsul Ma'Arif, SH.,LLM,Ph.D|G005|Pengadilan Militer Utama
+K011|Rifa Pitriani|S005|Korupsi Bansos|Denda 1 Miliar Rupiah|H002|I Gusti Agung Sumanatha, SH., MH|G009|PTUN Bandung
+K012|Shakila|S002|Pembunuhan Terencana|Penjara 20 Tahun|H013|Prof. Dr. H. Hamdi,SH.,M.Hum|G007|Pengadilan Narkotika
+K013|Nanda|S007|Pemerkosaan|Penjara 13 Tahun dan Masuk Neraka|H003|Prof. Dr. H.Yulius,SH.,MH|G002|Pengadilan Negeri Bandung
+K014|Erpiww|S006|Penyalahgunaan Narkoba|Penjara 4 hingga 12 Tahun|H016|Dr. H. Panji Widagdo,SH.,MH|G005|Pengadilan Militer Utama
+####|####|####|####|####|####|####|####|####
