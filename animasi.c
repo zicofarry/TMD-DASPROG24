@@ -397,7 +397,7 @@ void help_multiquery(){
 
 // Prosedur Untuk Menampilkan Intro
 void intro(){
-    system("start wmplayer \"D:\\Muhammad 'Azmi Salam\\Kuliah\\Dasar-Dasar Pemrograman\\Tugas Masa Depan\\Tugas Masa Depan 24\\Faint - Linkin Park.mp3\"");
+    system("start wmplayer \"%CD%\\Faint - Linkin Park.mp3\"");
 
     // sin 1
     printf(ZCFRY);
