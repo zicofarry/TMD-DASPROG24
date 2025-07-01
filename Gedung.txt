@@ -1,0 +1,14 @@
+G001|Pengadilan Negeri Jakarta Pusat
+G002|Pengadilan Negeri Bandung
+G003|Pengadilan Agama Surabaya
+G004|Pengadilan Tinggi Makassar
+G005|Pengadilan Militer Utama
+G006|Pengadilan Tipikor (Tindak Pidana Korupsi)
+G007|Pengadilan Narkotika
+G008|Pengadilan Anak Jakarta
+G009|PTUN Bandung
+G010|Meja Sidang Kelas S-306
+G011|Gedung C Kelas C-308
+G012|Gedung Jaya Baru
+G013|PTUN Irian Barat
+####|####
