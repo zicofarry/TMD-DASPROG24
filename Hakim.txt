@@ -1,0 +1,22 @@
+H001|Dr. Burhan Dahlan, SH., MH
+H002|I Gusti Agung Sumanatha, SH., MH
+H003|Prof. Dr. H.Yulius,SH.,MH
+H004|H. Dwiarso Budi Santiarto, S.H., M.Hum.
+H005|Syamsul Ma'Arif, SH.,LLM,Ph.D
+H006|Dr. Yasardin,SH.,M.Hum
+H007|Dr. Prim Haryadi, S.H., M.H.
+H008|Dr.Salman Luthan,SH.,MH
+H009|Prof.Dr.Surya Jaya,SH.M.Hum
+H010|Dr.Nurul Elmiyah,SH.,MH
+H011|Dr. Irfan Fachruddin, SH.,CN
+H012|Dr. Desneyeti M, SH.,M.Hum
+H013|Prof. Dr. H. Hamdi,SH.,M.Hum
+H015|Maria Anna Samiyati,SH.,MH
+H016|Dr. H. Panji Widagdo,SH.,MH
+H017|Dr. Ibrahim, SH.,MH.,LLM
+H018|Dr. H . Edi Riadi,SH.,MH
+H019|Dr.Drs.M.Yunus Wahab,SH.,MH
+H020|Dr.H.Yodi Martono W,SH.,MH
+H021|Rosa Ariani Sukamto, M.T.
+H030|Rohman
+####|####
