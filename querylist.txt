@@ -1,0 +1,69 @@
+███████╗ ██████╗███████╗██████╗ ██╗   ██╗    ██████╗ ██████╗ ███╗   ███╗███████╗
+╚══███╔╝██╔════╝██╔════╝██╔══██╗╚██╗ ██╔╝    ██╔══██╗██╔══██╗████╗ ████║██╔════╝
+  ███╔╝ ██║     █████╗  ██████╔╝ ╚████╔╝     ██║  ██║██████╔╝██╔████╔██║███████╗
+ ███╔╝  ██║     ██╔══╝  ██╔══██╗  ╚██╔╝      ██║  ██║██╔══██╗██║╚██╔╝██║╚════██║
+███████╗╚██████╗██║     ██║  ██║   ██║       ██████╔╝██████╔╝██║ ╚═╝ ██║███████║
+╚══════╝ ╚═════╝╚═╝     ╚═╝  ╚═╝   ╚═╝       ╚═════╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝
+
+    ~~ QUERY OK LIST ~~
+//Modify Data
+INSERT Kasus K009 Faiz S011 H015 G004;
+INSERT Kasus K010 "Alex Turner" S009 H005 G005;
+UPDATE Kasus K003 "Harri A.K.A \"THE IDAY\"" S013 H021 G010;
+UPDATE Sin S007 Pemerkosaan "Penjara 13 Tahun dan Masuk Neraka";
+DELETE Hakim H014;
+
+//Tampilkan Data
+SHOW Sin;
+JOIN Kasus Sin;
+JOIN Kasus Gedung Hakim Sin;
+SHOW KasusComplete;
+
+
+    ~~ QUERY ERROR LIST ~~
+//Gak ada EOP
+INSERT Sin S014 "Main CSPC Ketika Nongkrong" "Dikatain Ambis"
+
+//Query perintah tidak sesuai
+MASUKIN Hakim H030 "Dr. Julian Casablancas";
+
+//Format penulisan gak sesuai
+INSERT Gedung H023 "Konferensi Rocok KPAD";
+SHOW KaSuS;
+
+//update tapi datanya gak ada
+UPDATE Gedung G013 "Racoon City Area";
+
+//delete tapi datanya gak ada
+DELETE Hakim H023;
+
+//delete tapi lagi dipake di tabel kasus (utama)
+DELETE Sin S013;
+
+//insert yang udah ada
+INSERT Hakim H001 "Mr. Chester Bennington";
+
+//insert KasusComplete
+INSERT KasusComplete K009 "Mike Shinoda" "Jago Rap" Dibanned Andreas "Gedung UPI";
+
+//insert kasus yang salah satu primary nya gak ada dalam tabelnya
+INSERT Kasus K010 Nihaww S008 H025 G004;
+INSERT Kasus K011 Novascotia S020 H021 G036;
+INSERT Kasus K011 "Mazzy Star" S070 H054 G066;
+
+//show dan join
+JOIN Kasus;
+JOIN Sin Kasus;
+SHOW Kasus Sin;
+JOIN Kasus Sin Hakim Sin;
+
+    ~~NON-TERMINAL MODE~~
+SHOW Gedung;
+INSERT Gedung G013 "PTUN Irian Barat";
+UPDATE Gedung G009 "PTUN Bandung";
+ON;
+OFF;
+
+    ~~MULTIPLE QUERY LIST~~
+"INSERT Kasus K011 \"Repa Pitriani\" S010 H007 G006\;" "SHOW KasusComplete\;" "UPDATE Kasus K011 \"Rifa Pitriani\" S005 H002 G009\;" "SHOW KasusComplete\;";
+"SHOW KasusComplete\;" "INSERT Kasus K012 Shakila S002 H013 G007\;" "INSERT Kasus K013 Nanda S007 H003 G002\;" "INSERT Kasus K014 Erpiww S006 H016 G005\;" "SHOW KasusComplete\;";
