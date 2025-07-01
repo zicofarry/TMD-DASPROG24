@@ -1,0 +1,15 @@
+K001|Repa Pitriani|Korupsi Bansos|Denda 1 Miliar Rupiah|I Gusti Agung Sumanatha, SH., MH|PTUN Bandung
+K002|Naufal Rizki|Pake BREAK Pada Loop While|Tidak Diakui Mahasiswa Bu Rosa|Dr.Salman Luthan,SH.,MH|Pengadilan Narkotika
+K003|Harri A.K.A "THE IDAY"|Peretasan Web CSPC|Dapet Nilai E dari Bu Rosa|Rosa Ariani Sukamto, M.T.|Meja Sidang Kelas S-306
+K004|Raffa|Pemerkosaan|Penjara 13 Tahun dan Masuk Neraka|Dr.Drs.M.Yunus Wahab,SH.,MH|Pengadilan Agama Surabaya
+K005|Anas Minfathul|Pembunuhan Tidak Terencana|Penjara 15 Tahun|Dr. Burhan Dahlan, SH., MH|Pengadilan Negeri Jakarta Pusat
+K006|Aji|Korupsi Bansos|Denda 1 Miliar Rupiah|Dr. Burhan Dahlan, SH., MH|Pengadilan Negeri Jakarta Pusat
+K007|Yassar Muwaffaq|Mengerjakan CSPC Ketika Matkul Jarkom|Kena Sindir Dosen|Dr.Nurul Elmiyah,SH.,MH|Gedung C Kelas C-308
+K008|Adwar|Pemerkosaan|Penjara 13 Tahun dan Masuk Neraka|Dr. H . Edi Riadi,SH.,MH|Pengadilan Tinggi Makassar
+K009|Faiz|Pencurian Sandal Masjid|Tidak Diterima Solatnya|Maria Anna Samiyati,SH.,MH|Pengadilan Tinggi Makassar
+K010|Alex Turner|Pencemaran Nama Baik|Penjara 2 Tahun atau Denda|Syamsul Ma'Arif, SH.,LLM,Ph.D|Pengadilan Militer Utama
+K011|Rifa Pitriani|Korupsi Bansos|Denda 1 Miliar Rupiah|I Gusti Agung Sumanatha, SH., MH|PTUN Bandung
+K012|Shakila|Pembunuhan Terencana|Penjara 20 Tahun|Prof. Dr. H. Hamdi,SH.,M.Hum|Pengadilan Narkotika
+K013|Nanda|Pemerkosaan|Penjara 13 Tahun dan Masuk Neraka|Prof. Dr. H.Yulius,SH.,MH|Pengadilan Negeri Bandung
+K014|Erpiww|Penyalahgunaan Narkoba|Penjara 4 hingga 12 Tahun|Dr. H. Panji Widagdo,SH.,MH|Pengadilan Militer Utama
+####|####|####|####|####|####
